@@ -2,7 +2,7 @@
 
 ![Phoenix Logo](https://img.shields.io/badge/Phoenix-AI%20Documentation-orange?style=for-the-badge&logo=fire&logoColor=white)
 
-[![GitHub release](https://img.shields.io/github/release/your-username/phoenix.svg)](https://github.com/your-username/phoenix/releases)
+[![GitHub release](https://img.shields.io/github/release/pranaycv/phoenix.svg)](https://github.com/pranaycv/phoenix/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
@@ -41,7 +41,7 @@
 ### Quick Install
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/phoenix.git
+git clone https://github.com/pranaycv/phoenix.git
 cd phoenix
 
 # Install dependencies
@@ -208,7 +208,7 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 ### Development Setup
 ```bash
 # Fork and clone the repository
-git clone https://github.com/your-username/phoenix.git
+git clone https://github.com/pranaycv/phoenix.git
 cd phoenix
 
 # Create virtual environment
@@ -242,9 +242,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/your-username/phoenix/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/phoenix/discussions)
-- **Wiki**: [Project Wiki](https://github.com/your-username/phoenix/wiki)
+- **Issues**: [GitHub Issues](https://github.com/pranaycv/phoenix/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/pranaycv/phoenix/discussions)
+- **Wiki**: [Project Wiki](https://github.com/pranaycv/phoenix/wiki)
 
 ## 🗺️ Roadmap
 
@@ -261,6 +261,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ by developers, for developers**
 
-[⭐ Star this repo](https://github.com/your-username/phoenix) | [🐛 Report Bug](https://github.com/your-username/phoenix/issues) | [💡 Request Feature](https://github.com/your-username/phoenix/issues)
+[⭐ Star this repo](https://github.com/pranaycv/phoenix) | [🐛 Report Bug](https://github.com/pranaycv/phoenix/issues) | [💡 Request Feature](https://github.com/pranaycv/phoenix/issues)
 
 </div>
