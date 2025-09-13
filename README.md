@@ -14,7 +14,7 @@ It combines the power of **tree-sitter parsing**, **Ollama AI models**, and a **
 
 ## 🔥 Why Phoenix?  
 
-Phoenix tackles the toughest challenges developers face when working with C++:  
+Phoenix tackles the toughest challenges developers face when working with legacy C++ code base:  
 
 1. **Understand legacy code faster** – make even decades-old codebases easier to read and maintain.  
 2. **Keep your code secure** – all documentation is generated locally on your system, never leaving your machine.  
