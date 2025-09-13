@@ -19,7 +19,7 @@ from generate_docs_ollama import CppParser as DocCppParser, OllamaGenerator, Fil
  * @brief This script orchestrates the automatic documentation of changed functions in a Git repository using imported classes from supplied scripts.
  * @details It detects changes using get_git_changes_2.py components, extracts function details with extract_function_code_2.py, generates documentation via direct Ollama API calls using requests, and updates files accordingly. Only changed functions in changed files are processed.
  *
- * @author Pranay + AI
+ * @author Pranay
  */
 """
 
@@ -522,7 +522,7 @@ def setup_gui():
             with dpg.group(width=200):  # Left side for inputs
                 # Company logo - keep aspect ratio
                 # logo_width, logo_height, channels, data = dpg.load_image("company_logo.png")  # Replace with actual logo path
-                logo_width, logo_height, channels, data = dpg.load_image("company_logo.png")  # Replace with actual logo path
+                logo_width, logo_height, channels, data = dpg.load_image("logo.png")  # Replace with actual logo path
                 with dpg.texture_registry(show=False):
                     texture_id = dpg.add_static_texture(width=logo_width, height=logo_height, default_value=data)
 

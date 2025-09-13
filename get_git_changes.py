@@ -18,7 +18,7 @@ import argparse
  * - GitRepoHandler: Manages Git repository operations such as directory change, diff retrieval, and content fetching for old and new file versions.
  * - ChangeProcessor: Orchestrates the processing of changes by comparing function sets and printing the results.
  *
- * @author Pranay + AI
+ * @author Pranay
  */
 """
 

@@ -19,7 +19,7 @@ import json
  * - FileProcessor: Handles reading, processing, and writing individual C++ files, including inserting generated comments and handling encoding.
  * - FileListManager: Manages the list of files to process, tracks their status (SUCCESS, FAILURE, or pending), prepares file lists, and provides processing summaries.
  *
- * @author Pranay + AI
+ * @author Pranay
  */
 """
 

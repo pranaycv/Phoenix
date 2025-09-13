@@ -15,7 +15,7 @@ import re
  * - CppParser: Sets up and uses tree-sitter to parse C++ code and extract function nodes and names.
  * - FunctionExtractor: Orchestrates the extraction process, coordinating parsing, comment handling, cleaning, and saving.
  *
- * @author Pranay + AI
+ * @author Pranay
  */
 """
 
