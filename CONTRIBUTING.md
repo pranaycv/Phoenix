@@ -45,8 +45,8 @@ This project follows a simple code of conduct:
 
 ### 1. Create Virtual Environment
 ```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+python -m venv code_doc
+source code_doc/bin/activate  # On Windows: code_doc\Scripts\activate
 ```
 
 ### 2. Install Dependencies
