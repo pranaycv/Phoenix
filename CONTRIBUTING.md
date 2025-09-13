@@ -37,7 +37,7 @@ This project follows a simple code of conduct:
 1. Fork the repository on GitHub
 2. Clone your fork locally:
    ```bash
-   git clone https://github.com/your-username/phoenix.git
+   git clone https://github.com/pranaycv/phoenix.git
    cd phoenix
    ```
 
