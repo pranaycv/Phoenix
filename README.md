@@ -27,6 +27,7 @@ Phoenix tackles the toughest challenges developers face when working with legacy
 ## 📋 Basic Requirement  
 
 - The C++ codebase must be a **Git repository**.  
+- Computer with GPU having **24GB memory and 7k CUDA cores** for faster processing.
 
 
 ## 🌟 Key Features
