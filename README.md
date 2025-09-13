@@ -7,7 +7,25 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-**Phoenix** is a comprehensive AI-powered toolkit for automated C++ code documentation, analysis, and maintenance. It combines the power of tree-sitter parsing, Ollama AI models, and modern GUI interfaces to revolutionize how developers document and maintain their C++ codebases.
+## ✨ Introduction  
+
+**Phoenix** is a comprehensive **AI-powered toolkit** for automated **C++ code documentation, analysis, and maintenance**.  
+It combines the power of **tree-sitter parsing**, **Ollama AI models**, and a **modern GUI interface** to revolutionize how developers document and maintain their C++ codebases.  
+
+## 🔥 Why Phoenix?  
+
+Phoenix tackles the toughest challenges developers face when working with C++:  
+
+1. **Understand legacy code faster** – make even decades-old codebases easier to read and maintain.  
+2. **Keep your code secure** – all documentation is generated locally on your system, never leaving your machine.  
+3. **Onboard new developers instantly** – newcomers can quickly grasp project structure and flow.  
+4. **From zero to full documentation** – transform undocumented projects into fully documented codebases.  
+5. **Seamless Doxygen integration** – generate complete Doxygen documentation directly from AI-powered docs.  
+
+## 📋 Basic Requirement  
+
+- The C++ codebase must be a **Git repository**.  
+
 
 ## 🌟 Key Features
 
