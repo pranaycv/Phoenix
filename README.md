@@ -1,6 +1,6 @@
 # 🚀 Phoenix - AI-Powered C++ Documentation Suite
 
-![Phoenix Logo](https://img.shields.io/badge/Phoenix-AI%20Documentation-orange?style=for-the-badge&logo=fire&logoColor=white)
+![Phoenix Logo](logo.png)
 
 [![GitHub release](https://img.shields.io/github/release/pranaycv/phoenix.svg)](https://github.com/pranaycv/phoenix/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -26,7 +26,7 @@
 - **Real-time Progress**: Live logging and status updates
 - **Customizable Settings**: Flexible configuration options
 
-### 📊 **Code Quality Analysis**
+### 📊 **Static Code Quality Analysis**
 - **Critical Glitch Detection**: Identifies memory leaks, null pointer dereferences
 - **Performance Analysis**: Spots potential bottlenecks and issues
 - **Security Assessment**: Detects buffer overflows and injection vulnerabilities
