@@ -21,6 +21,8 @@ Phoenix tackles the toughest challenges developers face when working with C++:
 3. **Onboard new developers instantly** – newcomers can quickly grasp project structure and flow.  
 4. **From zero to full documentation** – transform undocumented projects into fully documented codebases.  
 5. **Seamless Doxygen integration** – generate complete Doxygen documentation directly from AI-powered docs.  
+6. **Continuous Documentation Updates** – once full documentation is generated, Phoenix also keeps your docs up to date by  tracking Git changes since the last documentation date.  
+7. **Catch hidden issues** – AI powered function-by-function analysis of entire code based, detects potential glitches and bugs, producing a structured JSON report.
 
 ## 📋 Basic Requirement  
 
