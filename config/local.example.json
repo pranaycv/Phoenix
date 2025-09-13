@@ -1,0 +1,42 @@
+{
+  "project": {
+    "name": "Local Development Configuration",
+    "version": "1.0.0",
+    "description": "Example configuration for local development"
+  },
+  "ollama": {
+    "host": "http://localhost:11434",
+    "model": "codellama:7b",
+    "temperature": 0.1,
+    "timeout": 120,
+    "max_retries": 2
+  },
+  "git": {
+    "default_branch": "develop",
+    "extensions": [".cpp", ".hpp", ".h"],
+    "ignore_patterns": [
+      "**/build/**",
+      "**/Debug/**",
+      "**/Release/**"
+    ],
+    "include_uncommitted": true,
+    "include_staged": true,
+    "include_unstaged": false
+  },
+  "documentation": {
+    "include_doxygen": true,
+    "inline_comments": false,
+    "code_review": false,
+    "preserve_existing_comments": true
+  },
+  "gui": {
+    "default_paths": {
+      "repository": "./",
+      "output": "./docs"
+    }
+  },
+  "logging": {
+    "level": "DEBUG",
+    "console_output": true
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "project": {
+    "name": "Phoenix Configuration",
+    "version": "1.0.0",
+    "description": "Configuration file for Phoenix C++ Documentation Suite"
+  },
+  "ollama": {
+    "host": "http://localhost:11434",
+    "model": "gpt-oss:20b",
+    "temperature": 0.0,
+    "timeout": 300,
+    "max_retries": 3,
+    "alternative_hosts": [
+      "http://192.168.1.100:11434",
+      "http://192.168.0.132:11434"
+    ]
+  },
+  "git": {
+    "default_branch": "main",
+    "extensions": [".cpp", ".hpp", ".cc", ".hh", ".cxx", ".hxx", ".c++", ".h++", ".h", ".c"],
+    "ignore_patterns": [
+      "**/build/**",
+      "**/builds/**", 
+      "**/bin/**",
+      "**/obj/**",
+      "**/Debug/**",
+      "**/Release/**",
+      "**/test/**",
+      "**/tests/**",
+      "**/.git/**",
+      "**/__pycache__/**"
+    ],
+    "include_uncommitted": true,
+    "include_staged": true,
+    "include_unstaged": true
+  },
+  "documentation": {
+    "include_doxygen": true,
+    "inline_comments": true,
+    "code_review": true,
+    "preserve_existing_comments": true,
+    "doxygen_format": {
+      "style": "/**",
+      "include_brief": true,
+      "include_details": true,
+      "include_steps": true,
+      "include_params": true,
+      "include_return": true,
+      "step_format": "numbered"
+    }
+  },
+  "parsing": {
+    "long_loop_threshold": 50,
+    "encoding_detection": true,
+    "fallback_encoding": "utf-8",
+    "preserve_line_endings": true
+  },
+  "gui": {
+    "window_width": 1020,
+    "window_height": 800,
+    "logo_width": 200,
+    "theme": "default",
+    "auto_load_last_settings": true,
+    "default_paths": {
+      "repository": "D:/YourProject",
+      "output": "./output"
+    }
+  },
+  "logging": {
+    "level": "INFO",
+    "file": "phoenix.log",
+    "max_size": "10MB",
+    "backup_count": 5,
+    "console_output": true
+  },
+  "performance": {
+    "batch_size": 10,
+    "parallel_processing": false,
+    "memory_limit": "2GB",
+    "temp_directory": "./temp"
+  }
+}
